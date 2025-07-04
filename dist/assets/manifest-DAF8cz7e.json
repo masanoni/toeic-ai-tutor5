@@ -1,0 +1,21 @@
+{
+  "short_name": "TOEIC Tutor",
+  "name": "TOEIC AI Tutor",
+  "description": "An AI-powered daily learning application to help you prepare for the TOEIC test. It features vocabulary/idiom drills, a hands-free 'Drive Mode' for continuous listening, and reading comprehension exercises, with content dynamically generated for your target level.",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?v=2",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f1f5f9"
+}
